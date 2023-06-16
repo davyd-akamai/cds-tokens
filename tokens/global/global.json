@@ -3,7 +3,8 @@
     "brand": {
       "05": {
         "value": "#0174BC",
-        "type": "color"
+        "type": "color",
+        "description": "Default brand color"
       },
       "04": {
         "value": "#1F93DB",

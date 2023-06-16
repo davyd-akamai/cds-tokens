@@ -1,0 +1,60 @@
+{
+  "content": {
+    "text": {
+      "value": "{color.neutrals.grey10}",
+      "type": "color",
+      "description": "Primary default text color"
+    },
+    "icon": {
+      "value": "{color.neutrals.grey09}",
+      "type": "color",
+      "description": "Default icon color",
+      "$extensions": {}
+    },
+    "brand": {
+      "value": "{color.brand.05}",
+      "type": "color",
+      "description": "Default active content color"
+    },
+    "placeholder": {
+      "value": "{color.neutrals.grey07}",
+      "type": "color",
+      "description": "Color for text/icon placeholders or hints"
+    },
+    "disabled": {
+      "value": "{color.neutrals.grey05}",
+      "type": "color",
+      "description": "Color for disabled elements or text"
+    },
+    "inverted": {
+      "value": "{color.neutrals.white}",
+      "type": "color",
+      "description": "Inverted color for icon/text used on dark background"
+    },
+    "negative": {
+      "value": "{color.negative.03}",
+      "type": "color",
+      "description": "Color for error states"
+    },
+    "warning": {
+      "value": "{color.warning.03}",
+      "type": "color",
+      "description": "Color for warning states"
+    },
+    "positive": {
+      "value": "{color.positive.03}",
+      "type": "color",
+      "description": "Color for successful states"
+    },
+    "informative": {
+      "value": "{color.informative.03}",
+      "type": "color",
+      "description": "Color for informative states"
+    },
+    "inverted50": {
+      "value": "rgba(255,255,255,0.5)",
+      "type": "color",
+      "description": "(description TBD)"
+    }
+  }
+}
