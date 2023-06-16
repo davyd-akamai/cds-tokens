@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "7baa19bf59a4dd5fbff2845a5d195f85ca347bba",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/global": "source"
+    },
+    "group": "CDS"
+  }
+]

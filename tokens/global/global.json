@@ -142,5 +142,405 @@
         "type": "color"
       }
     }
+  },
+  "Nunito Sans": {
+    "value": "Nunito Sans",
+    "type": "fontFamilies"
+  },
+  "Fira Code": {
+    "value": "Fira Code",
+    "type": "fontFamilies"
+  },
+  "regular": {
+    "value": "400",
+    "type": "fontWeights"
+  },
+  "semibold": {
+    "value": "600",
+    "type": "fontWeights"
+  },
+  "bold": {
+    "value": "700",
+    "type": "fontWeights"
+  },
+  "extrabold": {
+    "value": "800",
+    "type": "fontWeights"
+  },
+  "heading": {
+    "overlineS": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{extrabold}",
+        "lineHeight": "16",
+        "fontSize": "12",
+        "letterSpacing": "3%",
+        "textCase": "{uppercase}"
+      },
+      "type": "typography"
+    },
+    "overline": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{extrabold}",
+        "lineHeight": "18",
+        "fontSize": "14",
+        "textCase": "{uppercase}"
+      },
+      "type": "typography"
+    },
+    "xs": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{extrabold}",
+        "lineHeight": "18",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    },
+    "s": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{extrabold}",
+        "lineHeight": "20",
+        "fontSize": "16"
+      },
+      "type": "typography"
+    },
+    "m": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{bold}",
+        "lineHeight": "24",
+        "fontSize": "18"
+      },
+      "type": "typography"
+    },
+    "l": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{bold}",
+        "lineHeight": "26",
+        "fontSize": "20"
+      },
+      "type": "typography"
+    },
+    "xl": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{bold}",
+        "lineHeight": "30",
+        "fontSize": "24"
+      },
+      "type": "typography"
+    },
+    "xxl": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{extrabold}",
+        "lineHeight": "32",
+        "fontSize": "28"
+      },
+      "type": "typography"
+    },
+    "xxxl": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{extrabold}",
+        "lineHeight": "42",
+        "fontSize": "36"
+      },
+      "type": "typography"
+    }
+  },
+  "uppercase": {
+    "value": "uppercase",
+    "type": "textCase"
+  },
+  "body-large": {
+    "regular": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{regular}",
+        "lineHeight": "24",
+        "fontSize": "16"
+      },
+      "type": "typography"
+    },
+    "italic": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{regular}",
+        "lineHeight": "24",
+        "fontSize": "16",
+        "fontStyle": "italic"
+      },
+      "type": "typography"
+    },
+    "semibold": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{semibold}",
+        "lineHeight": "24",
+        "fontSize": "16"
+      },
+      "type": "typography"
+    },
+    "extrabold": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{extrabold}",
+        "lineHeight": "24",
+        "fontSize": "16"
+      },
+      "type": "typography"
+    }
+  },
+  "body": {
+    "regular": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{regular}",
+        "lineHeight": "20",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    },
+    "italic": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{regular}",
+        "lineHeight": "20",
+        "fontSize": "14",
+        "fontStyle": "italic"
+      },
+      "type": "typography"
+    },
+    "semibold": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{semibold}",
+        "lineHeight": "20",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    },
+    "extrabold": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{extrabold}",
+        "lineHeight": "20",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    }
+  },
+  "body-small": {
+    "regular": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{regular}",
+        "lineHeight": "16",
+        "fontSize": "12"
+      },
+      "type": "typography"
+    },
+    "italic": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{regular}",
+        "lineHeight": "16",
+        "fontSize": "12",
+        "fontStyle": "italic"
+      },
+      "type": "typography"
+    },
+    "semibold": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{semibold}",
+        "lineHeight": "16",
+        "fontSize": "12"
+      },
+      "type": "typography"
+    },
+    "extrabold": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{extrabold}",
+        "lineHeight": "16",
+        "fontSize": "12"
+      },
+      "type": "typography"
+    }
+  },
+  "special": {
+    "kpi": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{bold}",
+        "lineHeight": "38",
+        "fontSize": "36"
+      },
+      "type": "typography"
+    },
+    "code": {
+      "value": {
+        "fontFamily": "{Fira Code}",
+        "fontWeight": "{regular}",
+        "lineHeight": "20",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    },
+    "code-large": {
+      "value": {
+        "fontFamily": "{Fira Code}",
+        "fontWeight": "{regular}",
+        "lineHeight": "20",
+        "fontSize": "16"
+      },
+      "type": "typography"
+    }
+  },
+  "label": {
+    "regular-xs": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{regular}",
+        "lineHeight": "16",
+        "fontSize": "12"
+      },
+      "type": "typography"
+    },
+    "semibold-xs": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{semibold}",
+        "lineHeight": "16",
+        "fontSize": "12"
+      },
+      "type": "typography"
+    },
+    "placehoder": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{regular}",
+        "lineHeight": "16",
+        "fontSize": "14",
+        "fontStyle": "italic"
+      },
+      "type": "typography"
+    },
+    "regular-s": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{regular}",
+        "lineHeight": "16",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    },
+    "semibold-s": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{semibold}",
+        "lineHeight": "16",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    },
+    "bold-s": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{bold}",
+        "lineHeight": "16",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    },
+    "semibold": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{semibold}",
+        "lineHeight": "20",
+        "fontSize": "16"
+      },
+      "type": "typography"
+    },
+    "bold": {
+      "value": {
+        "fontFamily": "{Nunito Sans}",
+        "fontWeight": "{bold}",
+        "lineHeight": "20",
+        "fontSize": "16"
+      },
+      "type": "typography"
+    }
+  },
+  "shadow-xs": {
+    "value": {
+      "x": "0",
+      "y": "1",
+      "blur": "4",
+      "spread": "0",
+      "color": "rgba(58,59,63,0.2)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "shadow-s": {
+    "value": {
+      "x": "0",
+      "y": "2",
+      "blur": "6",
+      "spread": "0",
+      "color": "rgba(58,59,63,0.2)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "shadow-m": {
+    "value": {
+      "x": "0",
+      "y": "4",
+      "blur": "12",
+      "spread": "0",
+      "color": "rgba(58,59,63,0.2)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "shadow-l": {
+    "value": [
+      {
+        "x": "0",
+        "y": "4",
+        "blur": "8",
+        "spread": "0",
+        "color": "rgba(58,59,63,0.08)",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0",
+        "y": "20",
+        "blur": "50",
+        "spread": "0",
+        "color": "rgba(58,59,63,0.2)",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "glow": {
+    "value": {
+      "x": "0",
+      "y": "2",
+      "blur": "6",
+      "spread": "0",
+      "color": "rgba(1,116,188,0.16)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }
