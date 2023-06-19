@@ -93,5 +93,74 @@
       "type": "color",
       "description": "Non-interactive informative border color"
     }
+  },
+  "background": {
+    "default": {
+      "value": "{color.neutrals.white}",
+      "type": "color",
+      "description": "Default background color for non-interactive elements"
+    },
+    "neutral": {
+      "value": "{color.neutrals.grey01}",
+      "type": "color",
+      "description": "Default page background color"
+    },
+    "inverted": {
+      "value": "{color.neutrals.grey10}",
+      "type": "color",
+      "description": "Dark (inverted) background color for some components"
+    },
+    "negative": {
+      "value": "{color.negative.03}",
+      "type": "color",
+      "description": "Non-interactive error bold background color"
+    },
+    "warning": {
+      "value": "{color.warning.03}",
+      "type": "color",
+      "description": "Non-interactive warning bold background color"
+    },
+    "positive": {
+      "value": "{color.positive.03}",
+      "type": "color",
+      "description": "Non-interactive success bold background color"
+    },
+    "informative": {
+      "value": "{color.informative.03}",
+      "type": "color",
+      "description": "Non-interactive informative bold background color"
+    },
+    "black": {
+      "value": "{color.neutrals.black}",
+      "type": "color",
+      "description": "BG color for a Global Header and Footer"
+    },
+    "surface": {
+      "negative": {
+        "value": "{color.negative.01}",
+        "type": "color",
+        "description": "Non-interactive error light background color"
+      },
+      "warning": {
+        "value": "{color.warning.01}",
+        "type": "color",
+        "description": "Non-interactive warning light background color"
+      },
+      "positive": {
+        "value": "{color.positive.01}",
+        "type": "color",
+        "description": "Non-interactive success light background color"
+      },
+      "informative": {
+        "value": "{color.informative.01}",
+        "type": "color",
+        "description": "Non-interactive informative light background color"
+      },
+      "secondary": {
+        "value": "{color.neutrals.grey02}",
+        "type": "color",
+        "description": "Non-interactive secondary light background color"
+      }
+    }
   }
 }
