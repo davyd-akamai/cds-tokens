@@ -56,5 +56,42 @@
       "type": "color",
       "description": "(description TBD)"
     }
+  },
+  "border": {
+    "default": {
+      "value": "{color.neutrals.grey03}",
+      "type": "color",
+      "description": "Default border color for non-interactive components"
+    },
+    "brand": {
+      "value": "{color.brand.05}",
+      "type": "color",
+      "description": "Brand color border"
+    },
+    "dark": {
+      "value": "{color.neutrals.grey10}",
+      "type": "color",
+      "description": "Dark border for limited components"
+    },
+    "negative": {
+      "value": "{color.negative.03}",
+      "type": "color",
+      "description": "Non-interactive error border color"
+    },
+    "warning": {
+      "value": "{color.warning.03}",
+      "type": "color",
+      "description": "Non-interactive warning border color"
+    },
+    "positive": {
+      "value": "{color.positive.03}",
+      "type": "color",
+      "description": "Non-interactive success border color"
+    },
+    "informative": {
+      "value": "{color.informative.03}",
+      "type": "color",
+      "description": "Non-interactive informative border color"
+    }
   }
 }
