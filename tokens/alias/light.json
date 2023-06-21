@@ -162,5 +162,68 @@
         "description": "Non-interactive secondary light background color"
       }
     }
+  },
+  "interaction": {
+    "default": {
+      "normal": {
+        "value": "{color.neutrals.grey06}",
+        "type": "color",
+        "description": "Default color for outline components and elements"
+      },
+      "hover": {
+        "value": "{color.neutrals.grey09}",
+        "type": "color",
+        "description": "Main hover state for interactive components"
+      },
+      "focus": {
+        "value": "{color.brand.05}",
+        "type": "color",
+        "description": "Brand focus (active) color"
+      },
+      "error": {
+        "value": "{color.negative.03}",
+        "type": "color",
+        "description": "Default color for error states"
+      }
+    },
+    "disabled": {
+      "primary": {
+        "value": "{color.neutrals.grey01}",
+        "type": "color",
+        "description": "Main disabled background color"
+      },
+      "secondary": {
+        "value": "{color.neutrals.grey04}",
+        "type": "color",
+        "description": "Disabled color for outline elements"
+      }
+    },
+    "background": {
+      "primary": {
+        "value": "{color.neutrals.white}",
+        "type": "color",
+        "description": "Default white background"
+      },
+      "secondary": {
+        "value": "{color.neutrals.grey01}",
+        "type": "color",
+        "description": "Secondary background color"
+      },
+      "tertiary": {
+        "value": "{color.brand.01}",
+        "type": "color",
+        "description": "Tertiary background color"
+      },
+      "accent": {
+        "value": "{color.brand.02}",
+        "type": "color",
+        "description": "Accent background color (focused states)"
+      },
+      "error": {
+        "value": "{color.negative.01}",
+        "type": "color",
+        "description": "Error background color"
+      }
+    }
   }
 }
