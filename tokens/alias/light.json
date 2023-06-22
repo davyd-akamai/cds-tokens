@@ -225,5 +225,87 @@
         "description": "Error background color"
       }
     }
+  },
+  "action": {
+    "brand": {
+      "default": {
+        "value": "{color.brand.05}",
+        "type": "color",
+        "description": "Primary color for action components"
+      },
+      "hover": {
+        "value": "{color.brand.04}",
+        "type": "color",
+        "description": "Primary hover color"
+      },
+      "active": {
+        "value": "{color.brand.05}",
+        "type": "color",
+        "description": "Primary active color"
+      },
+      "subsidiary": {
+        "value": "{color.brand.01}",
+        "type": "color",
+        "description": "Additional color for a brand palette"
+      }
+    },
+    "neutral": {
+      "default": {
+        "value": "{color.neutrals.grey07}",
+        "type": "color",
+        "description": "Secondary color for action components"
+      },
+      "hover": {
+        "value": "{color.neutrals.grey06}",
+        "type": "color",
+        "description": "Secondary hover color"
+      },
+      "active": {
+        "value": "{color.neutrals.grey07}",
+        "type": "color",
+        "description": "Secondary active color"
+      }
+    },
+    "launch": {
+      "default": {
+        "value": "{color.neutrals.black}",
+        "type": "color",
+        "description": "Launch color for action components"
+      },
+      "hover": {
+        "value": "{color.neutrals.grey10}",
+        "type": "color",
+        "description": "Launch hover color"
+      },
+      "active": {
+        "value": "{color.neutrals.black}",
+        "type": "color",
+        "description": "Launch active color"
+      }
+    },
+    "inverted": {
+      "default": {
+        "value": "{color.neutrals.white}",
+        "type": "color",
+        "description": "Iverted color for action components"
+      }
+    },
+    "disabled": {
+      "primary": {
+        "value": "{color.neutrals.grey02}",
+        "type": "color",
+        "description": "Primary disabled color"
+      },
+      "secondary": {
+        "value": "{color.neutrals.grey04}",
+        "type": "color",
+        "description": "Secondary disabled color"
+      },
+      "tertiary": {
+        "value": "{color.brand.02}",
+        "type": "color",
+        "description": "Tertiary disabled color"
+      }
+    }
   }
 }
