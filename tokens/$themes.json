@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global/global": "source",
-      "alias/light": "enabled"
+      "alias/light": "enabled",
+      "component/button/button": "enabled"
     },
     "group": "CDS"
   }

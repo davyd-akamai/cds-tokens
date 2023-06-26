@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "global/global",
-    "alias/light"
+    "alias/light",
+    "component/button/button"
   ]
 }
