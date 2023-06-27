@@ -9,7 +9,9 @@
       "component/button/button": "enabled",
       "component/button/menu-button": "enabled",
       "component/button/overflow-menu": "enabled",
-      "component/button/split-menu-button": "enabled"
+      "component/button/split-menu-button": "enabled",
+      "component/card/card": "enabled",
+      "component/checkbox/checkbox": "enabled"
     },
     "group": "CDS"
   }

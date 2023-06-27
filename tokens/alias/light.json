@@ -251,17 +251,17 @@
     },
     "neutral": {
       "default": {
-        "value": "{color.neutrals.grey07}",
+        "value": "{color.neutrals.grey06}",
         "type": "color",
         "description": "Secondary color for action components"
       },
       "hover": {
-        "value": "{color.neutrals.grey06}",
+        "value": "{color.neutrals.grey05}",
         "type": "color",
         "description": "Secondary hover color"
       },
       "active": {
-        "value": "{color.neutrals.grey07}",
+        "value": "{color.neutrals.grey06}",
         "type": "color",
         "description": "Secondary active color"
       }

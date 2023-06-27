@@ -6,6 +6,8 @@
     "component/button/menu-button",
     "component/button/overflow-menu",
     "component/button/split-menu-button",
-    "component/button/button_2"
+    "component/button/button_2",
+    "component/card/card",
+    "component/checkbox/checkbox"
   ]
 }

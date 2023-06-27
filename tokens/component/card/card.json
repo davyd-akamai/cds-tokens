@@ -1,0 +1,94 @@
+{
+  "card": {
+    "with-borders": {
+      "background": {
+        "value": "{background.default}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{border.default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{content.text}",
+        "type": "color"
+      },
+      "right-icons": {
+        "default": {
+          "value": "{content.icon}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{content.brand}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{content.disabled}",
+          "type": "color"
+        }
+      }
+    },
+    "with-shadow": {
+      "background": {
+        "value": "{background.default}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{border.default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{content.text}",
+        "type": "color"
+      },
+      "right-icons": {
+        "default": {
+          "value": "{content.icon}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{content.brand}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{content.disabled}",
+          "type": "color"
+        }
+      }
+    },
+    "simple": {
+      "background": {
+        "value": "{background.default}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{border.default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{content.text}",
+        "type": "color"
+      },
+      "right-icons": {
+        "default": {
+          "value": "{content.icon}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{content.brand}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{content.disabled}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "shadow": {
+    "card": {
+      "value": "{shadow-s}",
+      "type": "boxShadow"
+    }
+  }
+}
