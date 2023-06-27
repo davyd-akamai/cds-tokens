@@ -1,0 +1,56 @@
+{
+  "button": {
+    "primary": {
+      "default": {
+        "background": {
+          "value": "{action.brand.default}",
+          "type": "color"
+        },
+        "content": {
+          "typography": {
+            "regular": {
+              "value": "{label.semibold-s}",
+              "type": "typography",
+              "description": "Typography styles for a regular button"
+            },
+            "small": {
+              "value": "{label.semibold-xs}",
+              "type": "typography",
+              "description": "Typography styles for a small button"
+            }
+          },
+          "text": {
+            "value": "{content.inverted}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{content.inverted}",
+            "type": "color"
+          }
+        }
+      },
+      "hover": {
+        "background": {
+          "value": "{action.brand.hover}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background": {
+          "value": "{action.disabled.primary}",
+          "type": "color"
+        },
+        "content": {
+          "text": {
+            "value": "{content.disabled}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{content.disabled}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

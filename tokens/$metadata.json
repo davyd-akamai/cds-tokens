@@ -2,6 +2,10 @@
   "tokenSetOrder": [
     "global/global",
     "alias/light",
-    "component/button/button"
+    "component/button/button",
+    "component/button/menu-button",
+    "component/button/overflow-menu",
+    "component/button/split-menu-button",
+    "component/button/button_2"
   ]
 }

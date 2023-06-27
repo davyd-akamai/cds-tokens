@@ -1,0 +1,28 @@
+{
+  "overflow-menu": {
+    "default": {
+      "icon": {
+        "value": "{content.icon}",
+        "type": "color"
+      }
+    },
+    "hover": {
+      "icon": {
+        "value": "{content.brand}",
+        "type": "color"
+      }
+    },
+    "pressed": {
+      "icon": {
+        "value": "{content.brand}",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "icon": {
+        "value": "{content.disabled}",
+        "type": "color"
+      }
+    }
+  }
+}

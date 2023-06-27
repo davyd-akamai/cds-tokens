@@ -1,5 +1,5 @@
 {
-  "button": {
+  "menu-button": {
     "primary": {
       "default": {
         "background": {
@@ -144,112 +144,6 @@
         },
         "border": {
           "value": "{action.brand.default}",
-          "type": "color"
-        }
-      }
-    },
-    "link": {
-      "default": {
-        "text": {
-          "value": "{action.brand.default}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{action.brand.default}",
-          "type": "color"
-        }
-      },
-      "hover": {
-        "text": {
-          "value": "{action.brand.hover}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{action.brand.hover}",
-          "type": "color"
-        }
-      },
-      "pressed": {
-        "text": {
-          "value": "{action.brand.default}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{action.brand.default}",
-          "type": "color"
-        }
-      },
-      "disabled": {
-        "text": {
-          "value": "{content.disabled}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{content.disabled}",
-          "type": "color"
-        }
-      }
-    },
-    "launch": {
-      "default": {
-        "background": {
-          "value": "{action.launch.default}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{content.inverted}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{content.inverted}",
-          "type": "color"
-        }
-      },
-      "hover": {
-        "background": {
-          "value": "{action.launch.hover}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{content.inverted}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{content.inverted}",
-          "type": "color"
-        }
-      },
-      "pressed": {
-        "background": {
-          "value": "{action.launch.active}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{content.inverted}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{content.inverted}",
-          "type": "color"
-        }
-      },
-      "disabled": {
-        "background": {
-          "value": "{action.disabled.primary}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{content.disabled}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{content.disabled}",
-          "type": "color"
-        }
-      },
-      "spinner": {
-        "background": {
-          "value": "{action.launch.default}",
           "type": "color"
         }
       }

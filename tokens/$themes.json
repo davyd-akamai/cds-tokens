@@ -6,7 +6,10 @@
     "selectedTokenSets": {
       "global/global": "source",
       "alias/light": "enabled",
-      "component/button/button": "enabled"
+      "component/button/button": "enabled",
+      "component/button/menu-button": "enabled",
+      "component/button/overflow-menu": "enabled",
+      "component/button/split-menu-button": "enabled"
     },
     "group": "CDS"
   }
