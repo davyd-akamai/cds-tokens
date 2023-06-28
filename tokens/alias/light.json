@@ -223,6 +223,11 @@
         "value": "{color.negative.01}",
         "type": "color",
         "description": "Error background color"
+      },
+      "preset": {
+        "value": "{color.neutrals.grey02}",
+        "type": "color",
+        "description": "Hover background color for calendar presets"
       }
     }
   },
