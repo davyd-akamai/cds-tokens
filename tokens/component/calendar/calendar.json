@@ -89,6 +89,10 @@
         "value": "{background.neutral}",
         "type": "color"
       },
+      "border": {
+        "value": "{border.default}",
+        "type": "color"
+      },
       "text": {
         "value": "{content.text}",
         "type": "color"
