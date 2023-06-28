@@ -1,5 +1,5 @@
 {
-  "date-field": {
+  "date-range-field": {
     "default": {
       "background": {
         "value": "{interaction.background.primary}",
@@ -136,7 +136,7 @@
         "type": "color"
       },
       "icon": {
-        "value": "{content.brand}",
+        "value": "{content.icon}",
         "type": "color"
       }
     },
@@ -154,7 +154,7 @@
         "type": "color"
       },
       "icon": {
-        "value": "{content.brand}",
+        "value": "{content.icon}",
         "type": "color"
       }
     }

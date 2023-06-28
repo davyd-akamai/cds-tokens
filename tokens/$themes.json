@@ -14,7 +14,13 @@
       "component/checkbox/checkbox": "enabled",
       "component/content-panel/content-panel": "enabled",
       "component/calendar/calendar": "enabled",
-      "component/date-field/date-field": "enabled"
+      "component/date-field/date-field": "enabled",
+      "component/date-picker/date-picker": "enabled",
+      "component/date-range-picker/date-range-picker": "enabled",
+      "component/date-range-field/date-range-field": "enabled",
+      "component/date-range-input/date-range-input": "enabled",
+      "component/divider/divider": "enabled",
+      "component/dropdown/dropdown": "enabled"
     },
     "group": "CDS"
   }
