@@ -1,547 +1,713 @@
 {
-  "color": {
-    "brand": {
-      "05": {
-        "value": "#0174BC",
-        "type": "color",
-        "description": "Default brand color"
-      },
-      "04": {
-        "value": "#1F93DB",
-        "type": "color"
-      },
-      "03": {
-        "value": "#5BB3EA",
-        "type": "color"
-      },
-      "02": {
-        "value": "#AFDEF8",
-        "type": "color"
-      },
-      "01": {
-        "value": "#E9F6FF",
-        "type": "color"
-      }
-    },
-    "neutrals": {
-      "black": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "grey10": {
-        "value": "#3A3B3F",
-        "type": "color"
-      },
-      "grey09": {
-        "value": "#4B4B51",
-        "type": "color"
-      },
-      "grey08": {
-        "value": "#5F5F65",
-        "type": "color"
-      },
-      "grey07": {
-        "value": "#727278",
-        "type": "color"
-      },
-      "grey06": {
-        "value": "#83838C",
-        "type": "color"
-      },
-      "grey05": {
-        "value": "#A3A3AB",
-        "type": "color"
-      },
-      "grey04": {
-        "value": "#C5C5CA",
-        "type": "color"
-      },
-      "grey03": {
-        "value": "#D8D8DD",
-        "type": "color"
-      },
-      "grey02": {
-        "value": "#E7E7EA",
-        "type": "color"
-      },
-      "grey01": {
+  "Color": {
+    "Neutrals": {
+      "10": {
         "value": "#F4F4F4",
         "type": "color"
       },
-      "white": {
-        "value": "#ffffff",
+      "15": {
+        "value": "#E7E7EA",
+        "type": "color"
+      },
+      "20": {
+        "value": "#D8D8DD",
+        "type": "color"
+      },
+      "30": {
+        "value": "#C5C5CA",
+        "type": "color"
+      },
+      "40": {
+        "value": "#A3A3AB",
+        "type": "color"
+      },
+      "50": {
+        "value": "#83838C",
+        "type": "color"
+      },
+      "60": {
+        "value": "#727278",
+        "type": "color"
+      },
+      "70": {
+        "value": "#5F5F65",
+        "type": "color"
+      },
+      "80": {
+        "value": "#4B4B51",
+        "type": "color"
+      },
+      "90": {
+        "value": "#3A3B3F",
+        "type": "color"
+      },
+      "100": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "White": {
+        "value": "#FFFFFF",
         "type": "color"
       }
     },
-    "negative": {
-      "03": {
-        "value": "#BC012E",
+    "Brand": {
+      "10": {
+        "value": "#F5FBFF",
         "type": "color"
       },
-      "02": {
-        "value": "#FCC7D4",
+      "15": {
+        "value": "#EDF8FF",
         "type": "color"
       },
-      "01": {
-        "value": "#FFEAEF",
+      "20": {
+        "value": "#E1F4FF",
+        "type": "color"
+      },
+      "30": {
+        "value": "#CEEDFE",
+        "type": "color"
+      },
+      "40": {
+        "value": "#AFDEF8",
+        "type": "color",
+        "description": "Old primary-2"
+      },
+      "50": {
+        "value": "#96CFF0",
+        "type": "color"
+      },
+      "60": {
+        "value": "#5BB3EA",
+        "type": "color",
+        "description": "Old primary-3"
+      },
+      "70": {
+        "value": "#009CDE",
+        "type": "color",
+        "description": "Akamai Blue"
+      },
+      "80": {
+        "value": "#108AD6",
+        "type": "color"
+      },
+      "90": {
+        "value": "#0174BC",
+        "type": "color",
+        "description": "Akamai Websafe Blue. Old primary-5"
+      },
+      "100": {
+        "value": "#00314D",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FBFEFF",
         "type": "color"
       }
     },
-    "warning": {
-      "03": {
-        "value": "#FDC235",
+    "Red": {
+      "10": {
+        "value": "#FFF8F8",
         "type": "color"
       },
-      "02": {
-        "value": "#FFE6A9",
+      "15": {
+        "value": "#FFEFEF",
         "type": "color"
       },
-      "01": {
-        "value": "#FFF5E0",
+      "20": {
+        "value": "#FFE5E5",
+        "type": "color"
+      },
+      "30": {
+        "value": "#FDD8D8",
+        "type": "color"
+      },
+      "40": {
+        "value": "#F9C6C6",
+        "type": "color"
+      },
+      "50": {
+        "value": "#F3AEAF",
+        "type": "color"
+      },
+      "60": {
+        "value": "#EB9091",
+        "type": "color"
+      },
+      "70": {
+        "value": "#D63C42",
+        "type": "color"
+      },
+      "80": {
+        "value": "#D0343A",
+        "type": "color",
+        "description": "Akamai Red"
+      },
+      "90": {
+        "value": "#B82329",
+        "type": "color"
+      },
+      "100": {
+        "value": "#381316",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FFFCFC",
         "type": "color"
       }
     },
-    "highlight": {
-      "03": {
-        "value": "#FAF232",
+    "Orange": {
+      "10": {
+        "value": "#FEF9F4",
         "type": "color"
       },
-      "02": {
-        "value": "#FBFCA4",
+      "15": {
+        "value": "#FFF3E7",
         "type": "color"
       },
-      "01": {
-        "value": "#FEFFE0",
+      "20": {
+        "value": "#FFEBD7",
+        "type": "color"
+      },
+      "30": {
+        "value": "#FFE1C3",
+        "type": "color"
+      },
+      "40": {
+        "value": "#FACFA4",
+        "type": "color"
+      },
+      "50": {
+        "value": "#F2B67B",
+        "type": "color"
+      },
+      "60": {
+        "value": "#F09D4B",
+        "type": "color"
+      },
+      "70": {
+        "value": "#FE9933",
+        "type": "color",
+        "description": "Akamai Orange"
+      },
+      "80": {
+        "value": "#F0821D",
+        "type": "color"
+      },
+      "90": {
+        "value": "#C25D05",
+        "type": "color"
+      },
+      "100": {
+        "value": "#451E11",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FEFDFB",
         "type": "color"
       }
     },
-    "positive": {
-      "03": {
+    "Amber": {
+      "10": {
+        "value": "#FFF9ED",
+        "type": "color"
+      },
+      "15": {
+        "value": "#FFF4D5",
+        "type": "color"
+      },
+      "20": {
+        "value": "#FFECBC",
+        "type": "color"
+      },
+      "30": {
+        "value": "#FFE3A2",
+        "type": "color"
+      },
+      "40": {
+        "value": "#FACF83",
+        "type": "color"
+      },
+      "50": {
+        "value": "#F3BA63",
+        "type": "color"
+      },
+      "60": {
+        "value": "#EDB016",
+        "type": "color"
+      },
+      "70": {
+        "value": "#FECB34",
+        "type": "color"
+      },
+      "80": {
+        "value": "#F2A218",
+        "type": "color"
+      },
+      "90": {
+        "value": "#D18400",
+        "type": "color"
+      },
+      "100": {
+        "value": "#4E2009",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FEFDFB",
+        "type": "color"
+      }
+    },
+    "Yellow": {
+      "10": {
+        "value": "#FFFFEB",
+        "type": "color"
+      },
+      "15": {
+        "value": "#FAFADF",
+        "type": "color"
+      },
+      "20": {
+        "value": "#F9F9C9",
+        "type": "color"
+      },
+      "30": {
+        "value": "#F8F8B6",
+        "type": "color"
+      },
+      "40": {
+        "value": "#F5F596",
+        "type": "color"
+      },
+      "50": {
+        "value": "#E8E86A",
+        "type": "color"
+      },
+      "60": {
+        "value": "#DFDF39",
+        "type": "color"
+      },
+      "70": {
+        "value": "#F5F531",
+        "type": "color"
+      },
+      "80": {
+        "value": "#E5E50A",
+        "type": "color"
+      },
+      "90": {
+        "value": "#BFBF0D",
+        "type": "color"
+      },
+      "100": {
+        "value": "#35290F",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FDFDF9",
+        "type": "color"
+      }
+    },
+    "Green": {
+      "10": {
+        "value": "#F3FCF3",
+        "type": "color"
+      },
+      "15": {
+        "value": "#EBF9EB",
+        "type": "color"
+      },
+      "20": {
+        "value": "#DFF3DF",
+        "type": "color"
+      },
+      "30": {
+        "value": "#CEEBCF",
+        "type": "color"
+      },
+      "40": {
+        "value": "#B7DFBA",
+        "type": "color"
+      },
+      "50": {
+        "value": "#97CF9C",
+        "type": "color"
+      },
+      "60": {
+        "value": "#65BA75",
+        "type": "color"
+      },
+      "70": {
         "value": "#00B050",
+        "type": "color",
+        "description": "Akamai Green"
+      },
+      "80": {
+        "value": "#07A04D",
         "type": "color"
       },
-      "02": {
-        "value": "#C1EFD6",
+      "90": {
+        "value": "#138246",
         "type": "color"
       },
-      "01": {
-        "value": "#E2F5EB",
+      "100": {
+        "value": "#1B311E",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FBFEFB",
+        "type": "color"
+      }
+    },
+    "Teal": {
+      "10": {
+        "value": "#F1FCFA",
+        "type": "color"
+      },
+      "15": {
+        "value": "#E7F9F5",
+        "type": "color"
+      },
+      "20": {
+        "value": "#D9F3EE",
+        "type": "color"
+      },
+      "30": {
+        "value": "#C7EBE5",
+        "type": "color"
+      },
+      "40": {
+        "value": "#AFDFD7",
+        "type": "color"
+      },
+      "50": {
+        "value": "#8DCEC3",
+        "type": "color"
+      },
+      "60": {
+        "value": "#53B9AB",
+        "type": "color"
+      },
+      "70": {
+        "value": "#12A594",
+        "type": "color"
+      },
+      "80": {
+        "value": "#0E9888",
+        "type": "color"
+      },
+      "90": {
+        "value": "#067A6F",
+        "type": "color"
+      },
+      "100": {
+        "value": "#10302B",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FAFEFD",
         "type": "color"
       }
     },
-    "informative": {
-      "03": {
-        "value": "#4562FA",
+    "Navy": {
+      "10": {
+        "value": "#F8FAFF",
         "type": "color"
       },
-      "02": {
-        "value": "#D3DAFF",
+      "15": {
+        "value": "#F0F4FF",
         "type": "color"
       },
-      "01": {
-        "value": "#EDF0FF",
+      "20": {
+        "value": "#F0F4FF",
+        "type": "color"
+      },
+      "30": {
+        "value": "#D9E2FC",
+        "type": "color"
+      },
+      "40": {
+        "value": "#C6D4F9",
+        "type": "color"
+      },
+      "50": {
+        "value": "#AEC0F5",
+        "type": "color"
+      },
+      "60": {
+        "value": "#8DA4EF",
+        "type": "color"
+      },
+      "70": {
+        "value": "#4067E5",
+        "type": "color"
+      },
+      "80": {
+        "value": "#3A5CCC",
+        "type": "color"
+      },
+      "90": {
+        "value": "#3451B2",
+        "type": "color"
+      },
+      "100": {
+        "value": "#002856",
+        "type": "color",
+        "description": "Akamai Dark Navy"
+      },
+      "05": {
+        "value": "#FDFDFE",
+        "type": "color"
+      }
+    },
+    "Violet": {
+      "10": {
+        "value": "#F8FAFF",
+        "type": "color"
+      },
+      "15": {
+        "value": "#F5F2FF",
+        "type": "color"
+      },
+      "20": {
+        "value": "#EDE9FE",
+        "type": "color"
+      },
+      "30": {
+        "value": "#E4DEFC",
+        "type": "color"
+      },
+      "40": {
+        "value": "#D7CFF9",
+        "type": "color"
+      },
+      "50": {
+        "value": "#C4B8F3",
+        "type": "color"
+      },
+      "60": {
+        "value": "#AA99EC",
+        "type": "color"
+      },
+      "70": {
+        "value": "#7259D6",
+        "type": "color"
+      },
+      "80": {
+        "value": "#644FC1",
+        "type": "color"
+      },
+      "90": {
+        "value": "#5746AF",
+        "type": "color"
+      },
+      "100": {
+        "value": "#20134B",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FDFCFE",
+        "type": "color"
+      }
+    },
+    "Purple": {
+      "10": {
+        "value": "#FDFAFF",
+        "type": "color"
+      },
+      "15": {
+        "value": "#F9F1FE",
+        "type": "color"
+      },
+      "20": {
+        "value": "#F3E7FC",
+        "type": "color"
+      },
+      "30": {
+        "value": "#EDDBF9",
+        "type": "color"
+      },
+      "40": {
+        "value": "#E3CCF4",
+        "type": "color"
+      },
+      "50": {
+        "value": "#D3B4ED",
+        "type": "color"
+      },
+      "60": {
+        "value": "#BE93E4",
+        "type": "color"
+      },
+      "70": {
+        "value": "#8E4EC6",
+        "type": "color"
+      },
+      "80": {
+        "value": "#8445BC",
+        "type": "color"
+      },
+      "90": {
+        "value": "#753BBD",
+        "type": "color",
+        "description": "Akamai Purple"
+      },
+      "100": {
+        "value": "#2B0E44",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FEFCFE",
+        "type": "color"
+      }
+    },
+    "Plum": {
+      "10": {
+        "value": "#FFF8FF",
+        "type": "color"
+      },
+      "15": {
+        "value": "#FCEFFC",
+        "type": "color"
+      },
+      "20": {
+        "value": "#F9E5F9",
+        "type": "color"
+      },
+      "30": {
+        "value": "#F3D9F4",
+        "type": "color"
+      },
+      "40": {
+        "value": "#EBC8ED",
+        "type": "color"
+      },
+      "50": {
+        "value": "#DFAFE3",
+        "type": "color"
+      },
+      "60": {
+        "value": "#CF91D8",
+        "type": "color"
+      },
+      "70": {
+        "value": "#AB4ABA",
+        "type": "color"
+      },
+      "80": {
+        "value": "#A43CB4",
+        "type": "color"
+      },
+      "90": {
+        "value": "#9C2BAD",
+        "type": "color"
+      },
+      "100": {
+        "value": "#340C3B",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FEFCFF",
+        "type": "color"
+      }
+    },
+    "Pink": {
+      "10": {
+        "value": "#FFF7FC",
+        "type": "color"
+      },
+      "15": {
+        "value": "#FEEEF8",
+        "type": "color"
+      },
+      "20": {
+        "value": "#FCE5F3",
+        "type": "color"
+      },
+      "30": {
+        "value": "#F9D8EC",
+        "type": "color"
+      },
+      "40": {
+        "value": "#F3C6E2",
+        "type": "color"
+      },
+      "50": {
+        "value": "#ECADD4",
+        "type": "color"
+      },
+      "60": {
+        "value": "#E38EC3",
+        "type": "color"
+      },
+      "70": {
+        "value": "#E043A7",
+        "type": "color"
+      },
+      "80": {
+        "value": "#D23197",
+        "type": "color"
+      },
+      "90": {
+        "value": "#CD1D8D",
+        "type": "color"
+      },
+      "100": {
+        "value": "#3B0A2A",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FFFCFE",
+        "type": "color"
+      }
+    },
+    "Gold": {
+      "10": {
+        "value": "#FBF9F2",
+        "type": "color"
+      },
+      "15": {
+        "value": "#F5F2E9",
+        "type": "color"
+      },
+      "20": {
+        "value": "#EEEADD",
+        "type": "color"
+      },
+      "30": {
+        "value": "#E5DFD0",
+        "type": "color"
+      },
+      "40": {
+        "value": "#DAD1BD",
+        "type": "color"
+      },
+      "50": {
+        "value": "#CBBDA4",
+        "type": "color"
+      },
+      "60": {
+        "value": "#B8A383",
+        "type": "color"
+      },
+      "70": {
+        "value": "#978365",
+        "type": "color"
+      },
+      "80": {
+        "value": "#8C795D",
+        "type": "color"
+      },
+      "90": {
+        "value": "#776750",
+        "type": "color"
+      },
+      "100": {
+        "value": "#3B352B",
+        "type": "color"
+      },
+      "05": {
+        "value": "#FDFDFC",
         "type": "color"
       }
     }
-  },
-  "Nunito Sans": {
-    "value": "Nunito Sans",
-    "type": "fontFamilies"
-  },
-  "Fira Code": {
-    "value": "Fira Code",
-    "type": "fontFamilies"
-  },
-  "regular": {
-    "value": "400",
-    "type": "fontWeights"
-  },
-  "semibold": {
-    "value": "600",
-    "type": "fontWeights"
-  },
-  "bold": {
-    "value": "700",
-    "type": "fontWeights"
-  },
-  "extrabold": {
-    "value": "800",
-    "type": "fontWeights"
-  },
-  "heading": {
-    "overlineS": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{extrabold}",
-        "lineHeight": "16",
-        "fontSize": "12",
-        "letterSpacing": "3%",
-        "textCase": "{uppercase}"
-      },
-      "type": "typography"
-    },
-    "overline": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{extrabold}",
-        "lineHeight": "18",
-        "fontSize": "14",
-        "textCase": "{uppercase}"
-      },
-      "type": "typography"
-    },
-    "xs": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{extrabold}",
-        "lineHeight": "18",
-        "fontSize": "14"
-      },
-      "type": "typography"
-    },
-    "s": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{extrabold}",
-        "lineHeight": "20",
-        "fontSize": "16"
-      },
-      "type": "typography"
-    },
-    "m": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{bold}",
-        "lineHeight": "24",
-        "fontSize": "18"
-      },
-      "type": "typography"
-    },
-    "l": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{bold}",
-        "lineHeight": "26",
-        "fontSize": "20"
-      },
-      "type": "typography"
-    },
-    "xl": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{bold}",
-        "lineHeight": "30",
-        "fontSize": "24"
-      },
-      "type": "typography"
-    },
-    "xxl": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{extrabold}",
-        "lineHeight": "32",
-        "fontSize": "28"
-      },
-      "type": "typography"
-    },
-    "xxxl": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{extrabold}",
-        "lineHeight": "42",
-        "fontSize": "36"
-      },
-      "type": "typography"
-    }
-  },
-  "uppercase": {
-    "value": "uppercase",
-    "type": "textCase"
-  },
-  "body-large": {
-    "regular": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{regular}",
-        "lineHeight": "24",
-        "fontSize": "16"
-      },
-      "type": "typography"
-    },
-    "italic": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{regular}",
-        "lineHeight": "24",
-        "fontSize": "16",
-        "fontStyle": "italic"
-      },
-      "type": "typography"
-    },
-    "semibold": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{semibold}",
-        "lineHeight": "24",
-        "fontSize": "16"
-      },
-      "type": "typography"
-    },
-    "extrabold": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{extrabold}",
-        "lineHeight": "24",
-        "fontSize": "16"
-      },
-      "type": "typography"
-    }
-  },
-  "body": {
-    "regular": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{regular}",
-        "lineHeight": "20",
-        "fontSize": "14"
-      },
-      "type": "typography"
-    },
-    "italic": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{regular}",
-        "lineHeight": "20",
-        "fontSize": "14",
-        "fontStyle": "italic"
-      },
-      "type": "typography"
-    },
-    "semibold": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{semibold}",
-        "lineHeight": "20",
-        "fontSize": "14"
-      },
-      "type": "typography"
-    },
-    "extrabold": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{extrabold}",
-        "lineHeight": "20",
-        "fontSize": "14"
-      },
-      "type": "typography"
-    }
-  },
-  "body-small": {
-    "regular": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{regular}",
-        "lineHeight": "16",
-        "fontSize": "12"
-      },
-      "type": "typography"
-    },
-    "italic": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{regular}",
-        "lineHeight": "16",
-        "fontSize": "12",
-        "fontStyle": "italic"
-      },
-      "type": "typography"
-    },
-    "semibold": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{semibold}",
-        "lineHeight": "16",
-        "fontSize": "12"
-      },
-      "type": "typography"
-    },
-    "extrabold": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{extrabold}",
-        "lineHeight": "16",
-        "fontSize": "12"
-      },
-      "type": "typography"
-    }
-  },
-  "special": {
-    "kpi": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{bold}",
-        "lineHeight": "38",
-        "fontSize": "36"
-      },
-      "type": "typography"
-    },
-    "code": {
-      "value": {
-        "fontFamily": "{Fira Code}",
-        "fontWeight": "{regular}",
-        "lineHeight": "20",
-        "fontSize": "14"
-      },
-      "type": "typography"
-    },
-    "code-large": {
-      "value": {
-        "fontFamily": "{Fira Code}",
-        "fontWeight": "{regular}",
-        "lineHeight": "20",
-        "fontSize": "16"
-      },
-      "type": "typography"
-    }
-  },
-  "label": {
-    "regular-xs": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{regular}",
-        "lineHeight": "16",
-        "fontSize": "12"
-      },
-      "type": "typography"
-    },
-    "semibold-xs": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{semibold}",
-        "lineHeight": "16",
-        "fontSize": "12"
-      },
-      "type": "typography"
-    },
-    "placehoder": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{regular}",
-        "lineHeight": "16",
-        "fontSize": "14",
-        "fontStyle": "italic"
-      },
-      "type": "typography"
-    },
-    "regular-s": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{regular}",
-        "lineHeight": "16",
-        "fontSize": "14"
-      },
-      "type": "typography"
-    },
-    "semibold-s": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{semibold}",
-        "lineHeight": "16",
-        "fontSize": "14"
-      },
-      "type": "typography"
-    },
-    "bold-s": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{bold}",
-        "lineHeight": "16",
-        "fontSize": "14"
-      },
-      "type": "typography"
-    },
-    "semibold": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{semibold}",
-        "lineHeight": "20",
-        "fontSize": "16"
-      },
-      "type": "typography"
-    },
-    "bold": {
-      "value": {
-        "fontFamily": "{Nunito Sans}",
-        "fontWeight": "{bold}",
-        "lineHeight": "20",
-        "fontSize": "16"
-      },
-      "type": "typography"
-    }
-  },
-  "shadow-xs": {
-    "value": {
-      "x": "0",
-      "y": "1",
-      "blur": "4",
-      "spread": "0",
-      "color": "rgba(58,59,63,0.2)",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
-  },
-  "shadow-s": {
-    "value": {
-      "x": "0",
-      "y": "2",
-      "blur": "6",
-      "spread": "0",
-      "color": "rgba(58,59,63,0.2)",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
-  },
-  "shadow-m": {
-    "value": {
-      "x": "0",
-      "y": "4",
-      "blur": "12",
-      "spread": "0",
-      "color": "rgba(58,59,63,0.2)",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
-  },
-  "shadow-l": {
-    "value": [
-      {
-        "x": "0",
-        "y": "4",
-        "blur": "8",
-        "spread": "0",
-        "color": "rgba(58,59,63,0.08)",
-        "type": "dropShadow"
-      },
-      {
-        "x": "0",
-        "y": "20",
-        "blur": "50",
-        "spread": "0",
-        "color": "rgba(58,59,63,0.2)",
-        "type": "dropShadow"
-      }
-    ],
-    "type": "boxShadow"
-  },
-  "glow": {
-    "value": {
-      "x": "0",
-      "y": "2",
-      "blur": "6",
-      "spread": "0",
-      "color": "rgba(1,116,188,0.16)",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
   }
 }

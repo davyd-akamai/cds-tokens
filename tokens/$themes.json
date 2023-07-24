@@ -4,7 +4,6 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global/global": "source",
       "alias/light": "enabled",
       "component/button/button": "enabled",
       "component/button/menu-button": "enabled",
@@ -20,7 +19,9 @@
       "component/date-range-field/date-range-field": "enabled",
       "component/date-range-input/date-range-input": "enabled",
       "component/divider/divider": "enabled",
-      "component/dropdown/dropdown": "enabled"
+      "component/dropdown/dropdown": "enabled",
+      "global/global-old": "source",
+      "global/global": "disabled"
     },
     "group": "CDS"
   }
