@@ -709,5 +709,84 @@
         "type": "color"
       }
     }
+  },
+  "elevation": {
+    "xs": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "4",
+        "spread": "0",
+        "color": "rgba(58,59,63,0.2)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "s": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "6",
+        "spread": "0",
+        "color": "rgba(58,59,63,0.2)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "m": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "12",
+        "spread": "0",
+        "color": "rgba(58,59,63,0.2)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "l": {
+      "value": [
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "8",
+          "spread": "0",
+          "color": "rgba(58,59,63,0.08)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "20",
+          "blur": "50",
+          "spread": "0",
+          "color": "rgba(58,59,63,0.2)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "glow": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "6",
+        "spread": "0",
+        "color": "rgba(1,116,188,0.16)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  },
+  "Font": {
+    "Font-family": {
+      "Default": {
+        "value": "Nunito Sans",
+        "type": "fontFamilies"
+      },
+      "Code": {
+        "value": "Fira Code",
+        "type": "fontFamilies"
+      }
+    }
   }
 }
