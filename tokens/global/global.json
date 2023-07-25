@@ -787,6 +787,96 @@
         "value": "Fira Code",
         "type": "fontFamilies"
       }
+    },
+    "Font-weight": {
+      "Regular": {
+        "value": "400",
+        "type": "fontWeights"
+      },
+      "Semibold": {
+        "value": "600",
+        "type": "fontWeights"
+      },
+      "Bold": {
+        "value": "700",
+        "type": "fontWeights"
+      },
+      "Extrabold": {
+        "value": "800",
+        "type": "fontWeights"
+      }
+    },
+    "Font-size": {
+      "XS": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "S": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "M": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "L": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "XL": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "2XL": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "3XL": {
+        "value": "28",
+        "type": "fontSizes"
+      },
+      "4XL": {
+        "value": "36",
+        "type": "fontSizes"
+      }
+    },
+    "Line-height": {
+      "XS": {
+        "value": "16",
+        "type": "lineHeights"
+      },
+      "S": {
+        "value": "18",
+        "type": "lineHeights"
+      },
+      "M": {
+        "value": "20",
+        "type": "lineHeights"
+      },
+      "L": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "XL": {
+        "value": "26",
+        "type": "lineHeights"
+      },
+      "2XL": {
+        "value": "30",
+        "type": "lineHeights"
+      },
+      "3XL": {
+        "value": "32",
+        "type": "lineHeights"
+      },
+      "4XL": {
+        "value": "38",
+        "type": "lineHeights"
+      },
+      "5XL": {
+        "value": "42",
+        "type": "lineHeights"
+      }
     }
   }
 }
