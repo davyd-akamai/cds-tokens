@@ -710,8 +710,8 @@
       }
     }
   },
-  "elevation": {
-    "xs": {
+  "Elevation": {
+    "XS": {
       "value": {
         "x": "0",
         "y": "1",
@@ -722,7 +722,7 @@
       },
       "type": "boxShadow"
     },
-    "s": {
+    "S": {
       "value": {
         "x": "0",
         "y": "2",
@@ -733,7 +733,7 @@
       },
       "type": "boxShadow"
     },
-    "m": {
+    "M": {
       "value": {
         "x": "0",
         "y": "4",
@@ -744,7 +744,7 @@
       },
       "type": "boxShadow"
     },
-    "l": {
+    "L": {
       "value": [
         {
           "x": "0",
@@ -765,7 +765,7 @@
       ],
       "type": "boxShadow"
     },
-    "glow": {
+    "Glow": {
       "value": {
         "x": "0",
         "y": "2",
