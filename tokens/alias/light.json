@@ -8,8 +8,7 @@
     "icon": {
       "value": "{color.neutrals.grey09}",
       "type": "color",
-      "description": "Default icon color",
-      "$extensions": {}
+      "description": "Default icon color"
     },
     "brand": {
       "value": "{color.brand.05}",

@@ -1,8 +1,0 @@
-{
-  "divider": {
-    "border": {
-      "value": "{border.default}",
-      "type": "color"
-    }
-  }
-}

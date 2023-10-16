@@ -3,21 +3,6 @@
     "global/global-old",
     "global/global",
     "alias/light",
-    "component/button/button",
-    "component/button/menu-button",
-    "component/button/overflow-menu",
-    "component/button/split-menu-button",
-    "component/button/button_2",
-    "component/calendar/calendar",
-    "component/card/card",
-    "component/checkbox/checkbox",
-    "component/content-panel/content-panel",
-    "component/date-field/date-field",
-    "component/date-picker/date-picker",
-    "component/date-range-picker/date-range-picker",
-    "component/date-range-field/date-range-field",
-    "component/date-range-input/date-range-input",
-    "component/divider/divider",
-    "component/dropdown/dropdown"
+    "component/button/button"
   ]
 }
