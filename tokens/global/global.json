@@ -209,10 +209,6 @@
     },
     "Amber": {
       "10": {
-        "value": "#FFF9ED",
-        "type": "color"
-      },
-      "15": {
         "value": "#FFF4D5",
         "type": "color"
       },
@@ -238,31 +234,28 @@
       },
       "70": {
         "value": "#FECB34",
-        "type": "color"
+        "type": "color",
+        "description": "Medium or low severity"
       },
       "80": {
-        "value": "#F2A218",
+        "value": "#F2B90E",
         "type": "color"
       },
       "90": {
-        "value": "#D18400",
+        "value": "#CE9A00",
         "type": "color"
       },
       "100": {
-        "value": "#4E2009",
+        "value": "#403104",
         "type": "color"
       },
       "05": {
-        "value": "#FEFDFB",
+        "value": "#FFF9ED",
         "type": "color"
       }
     },
     "Yellow": {
       "10": {
-        "value": "#FFFFEB",
-        "type": "color"
-      },
-      "15": {
         "value": "#FAFADF",
         "type": "color"
       },
@@ -303,16 +296,58 @@
         "type": "color"
       },
       "05": {
-        "value": "#FDFDF9",
+        "value": "#FFFFEB",
+        "type": "color"
+      }
+    },
+    "Lime": {
+      "10": {
+        "value": "#EEFADC",
+        "type": "color"
+      },
+      "20": {
+        "value": "#E4F7C7",
+        "type": "color"
+      },
+      "30": {
+        "value": "#D7F2B0",
+        "type": "color"
+      },
+      "40": {
+        "value": "#C9E894",
+        "type": "color"
+      },
+      "50": {
+        "value": "#B1D16A",
+        "type": "color"
+      },
+      "60": {
+        "value": "#94BA2C",
+        "type": "color"
+      },
+      "70": {
+        "value": "#99D52A",
+        "type": "color"
+      },
+      "80": {
+        "value": "#93C926",
+        "type": "color"
+      },
+      "90": {
+        "value": "#5D770D",
+        "type": "color"
+      },
+      "100": {
+        "value": "#263209",
+        "type": "color"
+      },
+      "05": {
+        "value": "#F7FCF0",
         "type": "color"
       }
     },
     "Green": {
       "10": {
-        "value": "#F3FCF3",
-        "type": "color"
-      },
-      "15": {
         "value": "#EBF9EB",
         "type": "color"
       },
@@ -339,7 +374,7 @@
       "70": {
         "value": "#00B050",
         "type": "color",
-        "description": "Akamai Green"
+        "description": "Akamai Green. Low severity (human)"
       },
       "80": {
         "value": "#07A04D",
@@ -354,16 +389,12 @@
         "type": "color"
       },
       "05": {
-        "value": "#FBFEFB",
+        "value": "#F3FCF3",
         "type": "color"
       }
     },
     "Teal": {
       "10": {
-        "value": "#F1FCFA",
-        "type": "color"
-      },
-      "15": {
         "value": "#E7F9F5",
         "type": "color"
       },
@@ -404,21 +435,63 @@
         "type": "color"
       },
       "05": {
-        "value": "#FAFEFD",
+        "value": "#F1FCFA",
         "type": "color"
       }
     },
-    "Navy": {
+    "Cyan": {
       "10": {
-        "value": "#F8FAFF",
+        "value": "#E7F9FB",
         "type": "color"
       },
-      "15": {
+      "20": {
+        "value": "#D8F3F6",
+        "type": "color"
+      },
+      "30": {
+        "value": "#AADEE6",
+        "type": "color"
+      },
+      "40": {
+        "value": "#84CDDA",
+        "type": "color"
+      },
+      "50": {
+        "value": "#84CDDA",
+        "type": "color"
+      },
+      "60": {
+        "value": "#3DB9CF",
+        "type": "color"
+      },
+      "70": {
+        "value": "#05A2C2",
+        "type": "color"
+      },
+      "80": {
+        "value": "#0894B3",
+        "type": "color"
+      },
+      "90": {
+        "value": "#0C7792",
+        "type": "color"
+      },
+      "100": {
+        "value": "#04313C",
+        "type": "color"
+      },
+      "05": {
+        "value": "#F2FCFD",
+        "type": "color"
+      }
+    },
+    "Ultramarine": {
+      "10": {
         "value": "#F0F4FF",
         "type": "color"
       },
       "20": {
-        "value": "#F0F4FF",
+        "value": "#E6EDFE",
         "type": "color"
       },
       "30": {
@@ -455,16 +528,12 @@
         "description": "Akamai Dark Navy"
       },
       "05": {
-        "value": "#FDFDFE",
+        "value": "#F8FAFF",
         "type": "color"
       }
     },
     "Violet": {
       "10": {
-        "value": "#F8FAFF",
-        "type": "color"
-      },
-      "15": {
         "value": "#F5F2FF",
         "type": "color"
       },
@@ -505,16 +574,12 @@
         "type": "color"
       },
       "05": {
-        "value": "#FDFCFE",
+        "value": "#F8FAFF",
         "type": "color"
       }
     },
     "Purple": {
       "10": {
-        "value": "#FDFAFF",
-        "type": "color"
-      },
-      "15": {
         "value": "#F9F1FE",
         "type": "color"
       },
@@ -556,16 +621,12 @@
         "type": "color"
       },
       "05": {
-        "value": "#FEFCFE",
+        "value": "#FDFAFF",
         "type": "color"
       }
     },
-    "Plum": {
+    "Magenta": {
       "10": {
-        "value": "#FFF8FF",
-        "type": "color"
-      },
-      "15": {
         "value": "#FCEFFC",
         "type": "color"
       },
@@ -591,7 +652,8 @@
       },
       "70": {
         "value": "#AB4ABA",
-        "type": "color"
+        "type": "color",
+        "description": "Critical severity"
       },
       "80": {
         "value": "#A43CB4",
@@ -606,16 +668,12 @@
         "type": "color"
       },
       "05": {
-        "value": "#FEFCFF",
+        "value": "#FFF8FF",
         "type": "color"
       }
     },
     "Pink": {
       "10": {
-        "value": "#FFF7FC",
-        "type": "color"
-      },
-      "15": {
         "value": "#FEEEF8",
         "type": "color"
       },
@@ -656,16 +714,12 @@
         "type": "color"
       },
       "05": {
-        "value": "#FFFCFE",
+        "value": "#FFF7FC",
         "type": "color"
       }
     },
-    "Gold": {
+    "Brown": {
       "10": {
-        "value": "#FBF9F2",
-        "type": "color"
-      },
-      "15": {
         "value": "#F5F2E9",
         "type": "color"
       },
@@ -706,7 +760,7 @@
         "type": "color"
       },
       "05": {
-        "value": "#FDFDFC",
+        "value": "#FBF9F2",
         "type": "color"
       }
     }
@@ -780,7 +834,7 @@
   },
   "Font": {
     "Font-family": {
-      "Default": {
+      "Brand": {
         "value": "Nunito Sans",
         "type": "fontFamilies"
       },
@@ -808,73 +862,77 @@
       }
     },
     "Font-size": {
-      "XS": {
+      "XXXS": {
         "value": "12",
         "type": "fontSizes"
       },
-      "S": {
+      "XXS": {
+        "value": "13",
+        "type": "fontSizes"
+      },
+      "XS": {
         "value": "14",
         "type": "fontSizes"
       },
-      "M": {
+      "S": {
         "value": "16",
         "type": "fontSizes"
       },
-      "L": {
+      "M": {
         "value": "18",
         "type": "fontSizes"
       },
-      "XL": {
+      "L": {
         "value": "20",
         "type": "fontSizes"
       },
-      "2XL": {
+      "XL": {
         "value": "24",
         "type": "fontSizes"
       },
-      "3XL": {
+      "XXL": {
         "value": "28",
         "type": "fontSizes"
       },
-      "4XL": {
+      "XXXL": {
         "value": "36",
         "type": "fontSizes"
       }
     },
     "Line-height": {
-      "XS": {
+      "XXXS": {
         "value": "16",
         "type": "lineHeights"
       },
-      "S": {
+      "XXS": {
         "value": "18",
         "type": "lineHeights"
       },
-      "M": {
+      "XS": {
         "value": "20",
         "type": "lineHeights"
       },
-      "L": {
+      "S": {
         "value": "24",
         "type": "lineHeights"
       },
-      "XL": {
+      "M": {
         "value": "26",
         "type": "lineHeights"
       },
-      "2XL": {
+      "L": {
         "value": "30",
         "type": "lineHeights"
       },
-      "3XL": {
+      "XL": {
         "value": "32",
         "type": "lineHeights"
       },
-      "4XL": {
+      "XXL": {
         "value": "38",
         "type": "lineHeights"
       },
-      "5XL": {
+      "XXXL": {
         "value": "42",
         "type": "lineHeights"
       }

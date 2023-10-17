@@ -4,9 +4,19 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "alias/light": "enabled",
       "component/button/button": "enabled",
-      "global/global-old": "source"
+      "global/global-old": "source",
+      "alias/light-old": "enabled"
+    },
+    "group": "CDS"
+  },
+  {
+    "id": "02aa880132bf29dcc8d3babf1f18829438446c03",
+    "name": "light-new",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/global": "source",
+      "alias/light": "enabled"
     },
     "group": "CDS"
   }
