@@ -191,28 +191,26 @@
   },
   "Interaction": {
     "Border": {
-      "Normal": {
-        "Default": {
-          "value": "{Color.Neutrals.60}",
-          "type": "color",
-          "description": "Default inputs border"
-        },
-        "Hover": {
-          "value": "{Color.Neutrals.90}",
-          "type": "color"
-        },
-        "Focus": {
-          "value": "{Color.Brand.90}",
-          "type": "color"
-        },
-        "Error": {
-          "value": "{Color.Red.70}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Color.Neutrals.40}",
-          "type": "color"
-        }
+      "Default": {
+        "value": "{Color.Neutrals.60}",
+        "type": "color",
+        "description": "Default inputs border"
+      },
+      "Hover": {
+        "value": "{Color.Neutrals.90}",
+        "type": "color"
+      },
+      "Focus": {
+        "value": "{Color.Brand.90}",
+        "type": "color"
+      },
+      "Error": {
+        "value": "{Color.Red.70}",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "{Color.Neutrals.40}",
+        "type": "color"
       }
     },
     "Background": {

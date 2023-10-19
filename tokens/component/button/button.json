@@ -194,17 +194,5 @@
         }
       }
     }
-  },
-  "typography": {
-    "regular": {
-      "value": "{label.semibold-s}",
-      "type": "typography",
-      "description": "Typography styles for a regular button"
-    },
-    "small": {
-      "value": "{label.semibold-xs}",
-      "type": "typography",
-      "description": "Typography styles for a small button"
-    }
   }
 }
