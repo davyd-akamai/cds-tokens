@@ -936,6 +936,12 @@
         "value": "42",
         "type": "lineHeights"
       }
+    },
+    "TextCase": {
+      "Uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
     }
   }
 }

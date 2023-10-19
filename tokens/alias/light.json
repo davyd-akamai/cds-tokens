@@ -1,10 +1,102 @@
 {
   "Content": {
     "Text": {
+      "Base": {
+        "value": "{Color.Neutrals.White}",
+        "type": "color"
+      },
+      "Negative": {
+        "value": "{Color.Red.90}",
+        "type": "color"
+      },
+      "Warning": {
+        "value": "{Color.Amber.70}",
+        "type": "color"
+      },
+      "Positive": {
+        "value": "{Color.Green.70}",
+        "type": "color"
+      },
+      "Informative": {
+        "value": "{Color.Ultramarine.70}",
+        "type": "color"
+      },
+      "Inverted50": {
+        "value": "rgba(255,255,255,0.5)",
+        "type": "color"
+      },
       "Primary": {
-        "value": "{Color.Neutrals.100}",
-        "type": "color",
-        "description": "Primary text color",
+        "Default": {
+          "value": "{Color.Neutrals.100}",
+          "type": "color",
+          "description": "Primary text color"
+        },
+        "Disabled": {
+          "value": "{Color.Neutrals.50}",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "Default": {
+          "value": "{Color.Neutrals.70}",
+          "type": "color",
+          "description": "Placeholder text"
+        },
+        "Disabled": {
+          "value": "{Color.Neutrals.50}",
+          "type": "color"
+        }
+      },
+      "Link": {
+        "Default": {
+          "value": "{Color.Brand.90}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Color.Brand.70}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Color.Neutrals.50}",
+          "type": "color"
+        }
+      }
+    },
+    "Icon": {
+      "Base": {
+        "value": "{Color.Neutrals.White}",
+        "type": "color"
+      },
+      "Negative": {
+        "value": "{Color.Red.90}",
+        "type": "color"
+      },
+      "Warning": {
+        "value": "{Color.Amber.70}",
+        "type": "color"
+      },
+      "Positive": {
+        "value": "{Color.Green.70}",
+        "type": "color"
+      },
+      "Informative": {
+        "value": "{Color.Ultramarine.70}",
+        "type": "color"
+      },
+      "Primary": {
+        "Default": {
+          "value": "{Color.Neutrals.90}",
+          "type": "color",
+          "description": "Default icon color"
+        },
+        "Hover": {
+          "value": "{Color.Brand.70}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{Color.Brand.90}",
+          "type": "color"
+        },
         "Disabled": {
           "value": "{Color.Neutrals.50}",
           "type": "color"
@@ -95,6 +187,97 @@
     "NeutralSubtle": {
       "value": "{Color.Neutrals.20}",
       "type": "color"
+    }
+  },
+  "Interaction": {
+    "Border": {
+      "Normal": {
+        "Default": {
+          "value": "{Color.Neutrals.60}",
+          "type": "color",
+          "description": "Default inputs border"
+        },
+        "Hover": {
+          "value": "{Color.Neutrals.90}",
+          "type": "color"
+        },
+        "Focus": {
+          "value": "{Color.Brand.90}",
+          "type": "color"
+        },
+        "Error": {
+          "value": "{Color.Red.70}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Color.Neutrals.40}",
+          "type": "color"
+        }
+      }
+    },
+    "Background": {
+      "Primary": {
+        "value": "{Color.Neutrals.White}",
+        "type": "color",
+        "description": "Default component background color"
+      },
+      "Secondary": {
+        "value": "{Color.Neutrals.05}",
+        "type": "color"
+      },
+      "Tertiary": {
+        "value": "{Color.Brand.10}",
+        "type": "color"
+      },
+      "Accent": {
+        "value": "{Color.Brand.30}",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "{Color.Neutrals.10}",
+        "type": "color"
+      }
+    }
+  },
+  "Action": {
+    "Base": {
+      "value": "{Color.Neutrals.White}",
+      "type": "color"
+    },
+    "Primary": {
+      "Default": {
+        "value": "{Color.Brand.90}",
+        "type": "color",
+        "description": "Brand action color"
+      },
+      "Hover": {
+        "value": "{Color.Brand.70}",
+        "type": "color"
+      },
+      "Active": {
+        "value": "{Color.Brand.90}",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "{Color.Neutrals.20}",
+        "type": "color"
+      }
+    },
+    "Secondary": {
+      "Hover": {
+        "value": "{Color.Brand.10}",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "{Color.Neutrals.40}",
+        "type": "color"
+      }
+    },
+    "Tertiary": {
+      "Disabled": {
+        "value": "{Color.Neutrals.40}",
+        "type": "color"
+      }
     }
   }
 }

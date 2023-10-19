@@ -1,18 +1,7 @@
 [
   {
-    "id": "7baa19bf59a4dd5fbff2845a5d195f85ca347bba",
-    "name": "light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "component/button/button": "enabled",
-      "global/global-old": "source",
-      "alias/light-old": "enabled"
-    },
-    "group": "CDS"
-  },
-  {
     "id": "02aa880132bf29dcc8d3babf1f18829438446c03",
-    "name": "light-new",
+    "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global/global": "source",
