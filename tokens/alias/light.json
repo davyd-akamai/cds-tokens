@@ -273,7 +273,7 @@
     },
     "Tertiary": {
       "Disabled": {
-        "value": "{Color.Neutrals.40}",
+        "value": "{Color.Brand.40}",
         "type": "color"
       }
     }
