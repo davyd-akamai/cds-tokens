@@ -149,6 +149,10 @@
         "Border": {
           "value": "{Action.Primary.Active}",
           "type": "color"
+        },
+        "Icon": {
+          "value": "{Content.Icon.Primary.Active}",
+          "type": "color"
         }
       }
     },
@@ -190,6 +194,12 @@
         },
         "Icon": {
           "value": "{Content.Icon.Primary.Disabled}",
+          "type": "color"
+        }
+      },
+      "Spinner": {
+        "Icon": {
+          "value": "{Content.Icon.Primary.Active}",
           "type": "color"
         }
       }
